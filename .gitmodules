@@ -40,3 +40,45 @@
 [submodule "tesseract"]
 	path = mupdf/thirdparty/tesseract
 	url = https://github.com/ArtifexSoftware/thirdparty-tesseract.git
+[submodule "mupdf/thirdparty/zlib"]
+	path = mupdf/thirdparty/zlib
+	url = https://github.com/ArtifexSoftware/thirdparty-zlib.git
+[submodule "mupdf/thirdparty/curl"]
+	path = mupdf/thirdparty/curl
+	url = https://github.com/ArtifexSoftware/thirdparty-curl.git
+[submodule "mupdf/thirdparty/extract"]
+	path = mupdf/thirdparty/extract
+	url = https://github.com/ArtifexSoftware/extract.git
+[submodule "mupdf/thirdparty/freeglut"]
+	path = mupdf/thirdparty/freeglut
+	url = https://github.com/ArtifexSoftware/thirdparty-freeglut.git
+[submodule "mupdf/thirdparty/freetype"]
+	path = mupdf/thirdparty/freetype
+	url = https://github.com/ArtifexSoftware/thirdparty-freetype2.git
+[submodule "mupdf/thirdparty/gumbo-parser"]
+	path = mupdf/thirdparty/gumbo-parser
+	url = https://github.com/ArtifexSoftware/thirdparty-gumbo-parser.git
+[submodule "mupdf/thirdparty/harfbuzz"]
+	path = mupdf/thirdparty/harfbuzz
+	url = https://github.com/ArtifexSoftware/thirdparty-harfbuzz.git
+[submodule "mupdf/thirdparty/jbig2dec"]
+	path = mupdf/thirdparty/jbig2dec
+	url = https://github.com/ArtifexSoftware/jbig2dec.git
+[submodule "mupdf/thirdparty/lcms2"]
+	path = mupdf/thirdparty/lcms2
+	url = https://github.com/ArtifexSoftware/thirdparty-lcms2.git
+[submodule "mupdf/thirdparty/leptonica"]
+	path = mupdf/thirdparty/leptonica
+	url = https://github.com/ArtifexSoftware/thirdparty-leptonica.git
+[submodule "mupdf/thirdparty/libjpeg"]
+	path = mupdf/thirdparty/libjpeg
+	url = https://github.com/ArtifexSoftware/thirdparty-libjpeg.git
+[submodule "mupdf/thirdparty/mujs"]
+	path = mupdf/thirdparty/mujs
+	url = https://github.com/ArtifexSoftware/mujs.git
+[submodule "mupdf/thirdparty/openjpeg"]
+	path = mupdf/thirdparty/openjpeg
+	url = https://github.com/ArtifexSoftware/thirdparty-openjpeg.git
+[submodule "mupdf/thirdparty/tesseract"]
+	path = mupdf/thirdparty/tesseract
+	url = https://github.com/ArtifexSoftware/thirdparty-tesseract.git
