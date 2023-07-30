@@ -12,3 +12,5 @@ CXX=arm-kobo-linux-gnueabihf-g++ \
 LINK=arm-kobo-linux-gnueabihf-g++ \
 LD=arm-kobo-linux-gnueabihf-ld \
 ARCH=arm CROSS_COMPILE=arm-kobo-linux-gnueabihf- make -j 8 HAVE_X11=no HAVE_GLUT=no
+
+echo "Enjoy some fresh mupdf at mupdf/build/release"
